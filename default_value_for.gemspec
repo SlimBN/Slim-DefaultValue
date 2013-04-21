@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name = %q{default_value_for}
+  s.name = "Slim-DefaultValue"
   s.version = "2.0.2"
   s.summary = %q{Provides a way to specify default values for ActiveRecord models}
   s.description = %q{The default_value_for plugin allows one to define default values for ActiveRecord models in a declarative manner}
